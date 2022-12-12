@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @snar2019
+- 👋 Hi, I’m Smritee N.
 - 👀 I’m interested in Data Analytics, Data Science and AI.
 - 🌱 I’m currently learning Deep Learning and Cloud Technologies & Deployment.
 - 💞️ I will be glad to collaborate on Data science Projects.
